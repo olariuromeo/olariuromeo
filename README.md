@@ -4,6 +4,7 @@
 **olariuromeo/olariuromeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on Kabballa
 - 🌱 I’m currently learning more...
@@ -13,7 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lab@coozila.com ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ###
 
 <h1 align="center">Full Stack Dveloper Engineer</h1>
